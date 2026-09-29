@@ -1,0 +1,98 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 0.2
+        },
+        "#Option Menu": {
+            "scaleInDock": 0.2
+        },
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/CreditsMenu/Credit_Menu.tmx": {
+            "scale": 0.1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -5,
+                "y": -5
+            }
+        },
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/CreditsMenu/Credit_Menu.tmx#Credit Menu with back": {
+            "scaleInDock": 0.1
+        },
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/GameOver/GameOver.tmx": {
+            "scale": 0.1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -25,
+                "y": -25
+            }
+        },
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/GameOver/GameOver.tmx#GMO": {
+            "scaleInDock": 0.2
+        },
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/GameOver/GameOver.tmx#GameOverScreen": {
+            "scaleInDock": 0.2
+        },
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/MainMenu.tmx": {
+            "scale": 0.20286458333333332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 391.8870346598203,
+                "y": 1126.3671373555844
+            }
+        },
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/MainMenu.tmx#Main_Menu": {
+            "scaleInDock": 0.3
+        },
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/MainMenu/MainMenu.tmx": {
+            "scale": 0.1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5,
+                "y": 5
+            }
+        },
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/MainMenu/MainMenu.tmx#Menu Blank": {
+            "scaleInDock": 0.2
+        },
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/MainMenu/MainMenu.tmx#MenuBlank": {
+            "scaleInDock": 0.2
+        },
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/OptionMenu.tmx": {
+            "scale": 0.1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -35,
+                "y": -35
+            }
+        },
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/OptionMenu.tmx#Option Menu 2": {
+            "scaleInDock": 0.2
+        }
+    },
+    "last.imagePath": "/home/nseya/Downloads",
+    "map.height": 16,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "openFiles": [
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/OptionMenu.tmx",
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/GameOver/GameOver.tmx",
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/CreditsMenu/Credit_Menu.tmx",
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/MainMenu/MainMenu.tmx",
+        "/devs/Epitech/Pre-MSc-Pro/T-JAV-501-LIL_16/assets/MenuUi/MainMenu.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
